@@ -1,0 +1,13 @@
+ 22:58:46.206 [main] DEBUG Testcases.LoginapplicationPF - entering testBegin()
+22:58:46.209 [main] INFO  Testcases.LoginapplicationPF - Login Test Begin
+22:58:46.209 [main] DEBUG Testcases.LoginapplicationPF - exiting testBegin()
+22:58:46.215 [main] DEBUG Testcases.LoginapplicationPF - entering Login()
+22:58:49.588 [main] INFO  Testcases.LoginapplicationPF - SendEmailID success
+22:58:49.668 [main] INFO  Testcases.LoginapplicationPF - SendPassword success
+22:58:50.445 [main] INFO  Testcases.LoginapplicationPF - clicked login button
+22:58:51.597 [main] INFO  Testcases.LoginapplicationPF - clicked icon back to homepage
+22:58:51.703 [main] INFO  Testcases.LoginapplicationPF - text apple Done.
+22:58:56.191 [main] INFO  Testcases.LoginapplicationPF - search for apple Done.
+00:59:56.973 [main] INFO  Testcases.homepageapplication - Login Test Begin
+01:00:00.205 [main] INFO  Testcases.homepageapplication - text apple Done.
+01:00:02.833 [main] INFO  Testcases.homepageapplication - search for apple Done.
